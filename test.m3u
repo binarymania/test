@@ -1,5 +1,5 @@
 #EXTM3U
-#EXITINF: -1,A
+#EXITINF:-1,TDT
 https://www.tdtchannels.com/lists/tv.m3u
-#EXITINF: -1,B
+#EXITINF:-1,SRREGIO
 http://srregio.club/j21/tv.m3u
